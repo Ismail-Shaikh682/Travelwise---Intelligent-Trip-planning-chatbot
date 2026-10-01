@@ -1,0 +1,5 @@
+Fix: Resolved "Page Not Found" error on hotel booking step 1; updated template to correctly handle booking type and removed reliance on unnecessary `item` object.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 15f15467-78a7-4ac9-a17e-82196d614b50
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/3951eab7-08aa-4051-904e-d8ab90f63886/b9d27ad8-244b-47db-a848-8f4ae37e68f6.jpg
